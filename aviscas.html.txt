@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avis des Meilleurs Casinos en Ligne de 2024 - KatoBonus</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>KatoBonus</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="aviscas.html">Avis Casino</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Avis des Meilleurs Casinos en Ligne de 2024</h2>
+            <article>
+                <h3>WSM Casino</h3>
+                <p>Note globale : ★★★★★</p>
+                <ul>
+                    <li>Catalogue de plus de 5 000 machines à sous</li>
+                    <li>Jeux en direct et paris sportifs</li>
+                    <li>Bonus et promotions enrichissantes</li>
+                </ul>
+                <a href="#">Réclamer le bonus</a>
+            </article>
+            <article>
+                <h3>CasinoTogether</h3>
+                <p>Note globale : ★★★★★</p>
+                <ul>
+                    <li>Catalogue de plus de 2 000 machines à sous</li>
+                    <li>Jeux en direct et systèmes de jeu en équipe</li>
+                    <li>Bonus de 100% jusqu'à 300€ sur le premier dépôt</li>
+                </ul>
+                <a href="#">Réclamer le bonus</a>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 KatoBonus. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
